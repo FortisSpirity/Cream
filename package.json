@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Evgeniy-x.github.io/team-project",
+  "homepage": "https://FortisSpirity.github.io/Cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project/"
+    "build": "parcel build src/*.html --public-url /Cream/"
   },
   "repository": {
     "type": "git",
